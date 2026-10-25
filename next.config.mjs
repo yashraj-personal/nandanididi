@@ -1,6 +1,6 @@
 const nextConfig = {
   output: "export",
-  basePath: "/nandani-art",
+  basePath: "/nandanididi",
   trailingSlash: true,
   images: {
     unoptimized: true,
