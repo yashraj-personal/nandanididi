@@ -20,7 +20,7 @@ export const products: Product[] = [
     price: 99,
     oldPrice: 129,
     tag: "Bestseller",
-    image: "/images/name-keychain.png",
+    image: "/nandanididi/images/name-keychain.png",
     description: "A tiny personalized keepsake with your name on it.",
   },
   {
@@ -29,7 +29,7 @@ export const products: Product[] = [
     category: "Stickers",
     price: 49,
     tag: "Cute pick",
-    image: "/images/sticker-pack.png",
+    image: "/nandanididi/images/sticker-pack.png",
     description: "Little stickers for your favourite things.",
   },
   {
@@ -39,7 +39,7 @@ export const products: Product[] = [
     price: 129,
     oldPrice: 159,
     tag: "Handmade",
-    image: "/images/flower-bookmark.png",
+    image: "/nandanididi/images/flower-bookmark.png",
     description: "Real flowers, sealed forever. For book lovers.",
   },
   {
@@ -49,7 +49,7 @@ export const products: Product[] = [
     price: 249,
     oldPrice: 299,
     tag: "Gift ready",
-    image: "/images/gift-hamper.png",
+    image: "/nandanididi/images/gift-hamper.png",
     description: "A little bundle of happy surprises.",
   },
   {
@@ -58,7 +58,7 @@ export const products: Product[] = [
     category: "Keychains",
     price: 119,
     tag: "New",
-    image: "/images/resin-charm.png",
+    image: "/nandanididi/images/resin-charm.png",
     description: "A floral heart charm for your bag or keys.",
   },
   {
@@ -66,7 +66,7 @@ export const products: Product[] = [
     name: "Cute Quote Sticker Set",
     category: "Stickers",
     price: 59,
-    image: "/images/quote-stickers.png",
+    image: "/nandanididi/images/quote-stickers.png",
     description: "Add a little personality to your journal.",
   },
   {
@@ -76,7 +76,7 @@ export const products: Product[] = [
     price: 199,
     oldPrice: 229,
     tag: "For besties",
-    image: "/images/bestie-duo.png",
+    image: "/nandanididi/images/bestie-duo.png",
     description: "A matching surprise for your favourite person.",
   },
   {
@@ -84,7 +84,7 @@ export const products: Product[] = [
     name: "Minimal Floral Bookmark",
     category: "Bookmarks",
     price: 89,
-    image: "/images/minimal-bookmark.png",
+    image: "/nandanididi/images/minimal-bookmark.png",
     description: "A soft, simple detail for reading time.",
   },
 ]
