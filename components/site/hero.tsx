@@ -237,7 +237,7 @@ export function Hero() {
         <motion.div style={{ x: imgX, y: imgY }} className="glass relative ml-auto w-[86%] rounded-t-full rounded-b-[2.5rem] p-2.5">
           <div className="relative aspect-[4/5] overflow-hidden rounded-t-full rounded-b-[2rem]">
             <Image
-              src="/images/hero.png"
+              src="/nandanididi/images/hero.png"
               alt="A handmade gift box wrapped in blush pink paper with ribbon and dried flowers"
               fill
               priority
@@ -253,7 +253,7 @@ export function Hero() {
           className="glass absolute bottom-8 left-0 w-48 rounded-3xl p-3 sm:w-56"
         >
           <div className="relative aspect-[4/3] overflow-hidden rounded-2xl">
-            <Image src="/images/resin-charm.png" alt="" fill sizes="224px" className="object-cover" />
+            <Image src="/nandanididi/images/resin-charm.png" alt="" fill sizes="224px" className="object-cover" />
           </div>
           <p className="mt-3 font-serif text-lg leading-tight">A gift that feels like you</p>
           <p className="mt-1 text-[11px] text-muted-foreground">Personalized · Thoughtful · Handmade</p>
