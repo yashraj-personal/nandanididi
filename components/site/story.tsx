@@ -32,7 +32,7 @@ export function Story() {
         <motion.div style={{ y: imageY, rotate: imageRotate }} className="glass relative mx-auto w-full max-w-sm rounded-[2.5rem] p-3">
           <div className="relative aspect-[3/4] overflow-hidden rounded-[2rem]">
             <Image
-              src="/images/studio.png"
+              src="/nandanididi/images/studio.png"
               alt="Hands crafting handmade gifts at a cozy studio desk"
               fill
               sizes="(min-width: 1024px) 380px, 90vw"
